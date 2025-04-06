@@ -8,7 +8,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 
 
-Description:
+#Description:
 
 This task involves performing Sentiment Analysis on a dataset of customer reviews using Natural Language Processing (NLP) techniques. The goal is to classify reviews as positive, negative, or neutral using TF-IDF vectorization and Logistic Regression. Sentiment Analysis is widely used in customer feedback analysis, brand monitoring, and social media insights.
 Steps Involved:
