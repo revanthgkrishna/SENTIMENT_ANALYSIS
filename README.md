@@ -19,5 +19,5 @@ Steps Involved:
 5. Evaluate the model’s performance using accuracy, precision, recall, and F1-score.
 6. Visualize some of the correctly and incorrectly classified reviews.
 
-#OUTPUT(Word Cloud of Model):
+#OUTPUT(WordCloud):
 ![Image](https://github.com/user-attachments/assets/2d3efdb9-753b-446d-b539-2fc55725be4c)
